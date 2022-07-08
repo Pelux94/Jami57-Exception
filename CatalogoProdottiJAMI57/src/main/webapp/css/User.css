@@ -1,0 +1,28 @@
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+	margin: 0;
+}
+
+.prova{
+	margin-bottom: 0!important;
+	padding-bottom: 0!important;
+}
+
+.dimensioni2{
+width:100%!important;
+}
+
+.center{
+	text-align:center;
+}
+
+.tazze{
+	display: block;
+	width: 75%;
+	margin: auto;
+	border-radius: 100%;
+}
